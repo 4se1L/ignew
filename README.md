@@ -1,4 +1,5 @@
 # Kaya Akan igeh emak-emak
+
 #perintah
 
 $ pkg update && upgrade
