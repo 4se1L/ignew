@@ -1,5 +1,5 @@
 # Kaya Akan igeh emak-emak
-#PERINTAH
+# PERINTAH
 $ pkg update && pkg upgrade
 $ pkg install python
 $ pkg install git
