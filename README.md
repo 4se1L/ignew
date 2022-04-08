@@ -8,5 +8,5 @@
 # git clone https://github.com/MN4WN1-777/ignew
 # cd ignew
 # git pull
-# python super-ig.py
+# python super-ig.py atau python dec_dani.py
 
